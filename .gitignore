@@ -12,3 +12,16 @@ Makefile.in
 /install-sh
 /missing
 /stamp-h1
+/INSTALL
+/config.log
+/config.status
+Makefile
+*.o
+*.a
+*.so
+*.la
+*.lai
+*.Po
+udpd
+udpc
+
